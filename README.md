@@ -7,7 +7,7 @@ Problem Statement
 
  The problem statement as below was for Blockchain technology.
 
-The problem statement was a part of [TECHGIG's Hackathon - 2018](https://www.techgig.com) held from 18th July to 2nd Sepember. The hackathon [Springer Nature Pune Hack Day: Decoding Scientific Content](https://www.techgig.com/hackathon/springernature-pune) – Hosted by Springer Nature Pune on decoding scientific content, is a challenge designed to inspire creative and dynamic technology professionals to put their skills to the test. Spread over four weeks, Springer Nature Pune Hack Day: DSC is a platform that allows aspiring tech experts to display their technical prowess in new technologies including ML, NLP, AI.
+The problem statement was a part of [TECHGIG](https://www.techgig.com)'s hackathon held from 18th July to 2nd Sepember 2018. The hackathon [Springer Nature Pune Hack Day: Decoding Scientific Content](https://www.techgig.com/hackathon/springernature-pune) – Hosted by Springer Nature Pune on decoding scientific content, is a challenge designed to inspire creative and dynamic technology professionals to put their skills to the test. Spread over four weeks, Springer Nature Pune Hack Day: DSC is a platform that allows aspiring tech experts to display their technical prowess in new technologies including ML, NLP, AI.
 
 Every publisher aspires to automate the identification, classification, enhancing, etc. of images using computer vision, which has a large variety of practical applications. Since this task of recognizing a visual concept is relatively trivial for a human to perform and is worth considering the challenges involved are from the perspective of a computer vision model. This problem statement talks about the need to automate the identification of the images as color or grey, which would help the publisher in decision making.
 
@@ -23,9 +23,9 @@ Use Case Description - What we have tried to build
 1. The Image Colourfulness Identification system
 2. The system to identify whether the image is grey or colour (with good sensitivity)
 3. Use Cases:
-* Use Case #1: Verify whether the image is grey or colour along with the percentage of confidence
-* Use Case #2: Must identify an image is colour even if the respective image has a small, clear and distinct colour information on it
-* Use Case #3: Must identify an image is grey even if the respective image has very extremely small degree of colour artefacts in it (not noticeable visually but will/may be computationally)
+    * Use Case #1: Verify whether the image is grey or colour along with the percentage of confidence
+    * Use Case #2: Must identify an image is colour even if the respective image has a small, clear and distinct colour information on it
+    * Use Case #3: Must identify an image is grey even if the respective image has very extremely small degree of colour artefacts in it (not noticeable visually but will/may be computationally)
 4. It automates the identification of the images as colour or grey, which would help the publisher in decision making
 
 
