@@ -64,8 +64,6 @@ Hardware Specifications
 Solution Approach and Architecture
 =====================
 
-The Open Auction Approach - Trust And Transparency
-
 ![alt text](https://github.com/sachinjegaonkar/ImageClassifier/blob/master/Architecture.jpg)
 
 
